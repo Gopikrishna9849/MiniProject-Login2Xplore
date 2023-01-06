@@ -1,4 +1,4 @@
-# MiniProject-Login2Xplore
+# Student Enrollment Form
 
 **Student Enrollment Form**
 The form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
